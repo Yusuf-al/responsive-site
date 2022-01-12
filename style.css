@@ -123,6 +123,9 @@ hr{
     .section{
         width: 100%;
     }
+    hr{
+        width: 100%;
+    }
     .players{
         grid-template-columns: repeat(2,1fr);
     }
